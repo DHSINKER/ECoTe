@@ -1,3 +1,4 @@
+# 01 모험가 길드 1회차
 import heapq
 n = int(input())
 ho = list(map(int, input().split()))
